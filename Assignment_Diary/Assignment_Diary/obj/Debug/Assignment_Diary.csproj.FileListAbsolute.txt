@@ -1,0 +1,12 @@
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\bin\Debug\Assignment_Diary.exe.config
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\bin\Debug\Assignment_Diary.exe
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\bin\Debug\Assignment_Diary.pdb
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.csprojAssemblyReference.cache
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.Form1.resources
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.Properties.Resources.resources
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.csproj.GenerateResource.cache
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.csproj.CoreCompileInputs.cache
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.exe
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.pdb
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.Important.resources
+G:\AIUB\9th semester\C#\Assignment_Diary\Assignment_Diary\obj\Debug\Assignment_Diary.Login_.resources
